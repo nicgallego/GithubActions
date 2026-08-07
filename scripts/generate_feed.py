@@ -1,4 +1,4 @@
-from bs4 import beautifulsoup4
+from bs4 import BeautifulSoup
 import request
 
 fetch_html
