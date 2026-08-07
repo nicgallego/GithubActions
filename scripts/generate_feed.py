@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import request
+import requests
 
 fetch_html
 soup = BeautifulSoup(html, "html.parser")
