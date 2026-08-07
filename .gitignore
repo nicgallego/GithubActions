@@ -219,3 +219,6 @@ __marimo__/
 
 # vim temporals
 *.swp
+
+# local python virtual environment in venv
+.venv
