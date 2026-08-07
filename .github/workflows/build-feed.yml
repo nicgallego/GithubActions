@@ -26,7 +26,6 @@ jobs:
         env:
             SITE_ULR: "https://www.heise.de/make/plus"
             FEED_SELF_URL: "https://MakeMagazinDE.github.io/Desktop-RSS-Reader/feed.xml"
-            FEED_SELF_URL: "https://MakeMagazinDE.github.io/Desktop-RSS-Reader/feed.xml"
             OUTPUT_PATH: "feed.xml"
             CHANNEL_TITLE: "Make Magazin: heise+ Artikel | heise online"
             CHANNEL_DESC: "Aktuelle heise+ Artikel vom Make Magazine"
